@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"me.desertfox.garden.objects"}]
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"me.desertfox.garden"},{"l":"me.desertfox.garden.commands"},{"l":"me.desertfox.garden.events"},{"l":"me.desertfox.garden.listener"},{"l":"me.desertfox.garden.objects"},{"l":"me.desertfox.garden.utils"}]
